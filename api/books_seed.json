@@ -1,0 +1,610 @@
+[
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 4200
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 4800
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 4600
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 4900
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 3900
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 4100
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 4300
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 4700
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 5100
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 4800
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 5200
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "category": "Fantasy",
+    "price": 3200
+  },
+  {
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "category": "Fantasy",
+    "price": 3300
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "category": "Fantasy",
+    "price": 5200
+  },
+  {
+    "title": "The Wise Man's Fear",
+    "author": "Patrick Rothfuss",
+    "category": "Fantasy",
+    "price": 5600
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "category": "Fantasy",
+    "price": 5500
+  },
+  {
+    "title": "A Clash of Kings",
+    "author": "George R.R. Martin",
+    "category": "Fantasy",
+    "price": 5500
+  },
+  {
+    "title": "A Storm of Swords",
+    "author": "George R.R. Martin",
+    "category": "Fantasy",
+    "price": 5900
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "price": 5800
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "price": 4900
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "price": 2800
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Fiction",
+    "price": 2200
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "price": 3100
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Classics",
+    "price": 2500
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "category": "Classics",
+    "price": 2900
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "category": "Classics",
+    "price": 2700
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "category": "Classics",
+    "price": 3000
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "category": "Classics",
+    "price": 2900
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "price": 2800
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "price": 2100
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "category": "Fiction",
+    "price": 3000
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classics",
+    "price": 2600
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "category": "Classics",
+    "price": 3500
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Fiction",
+    "price": 2900
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "category": "Fiction",
+    "price": 3400
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "category": "Fiction",
+    "price": 3600
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "category": "Fiction",
+    "price": 3700
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "category": "Fiction",
+    "price": 3300
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "category": "Fiction",
+    "price": 3900
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "category": "Fiction",
+    "price": 3700
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "category": "Mystery",
+    "price": 3900
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "price": 2800
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "price": 2900
+  },
+  {
+    "title": "The ABC Murders",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "price": 2800
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "price": 2600
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "category": "Mystery",
+    "price": 4100
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "category": "Mystery",
+    "price": 3800
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "category": "Thriller",
+    "price": 3600
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "category": "Thriller",
+    "price": 3500
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "category": "Thriller",
+    "price": 3500
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "category": "Young Adult",
+    "price": 3400
+  },
+  {
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "category": "Young Adult",
+    "price": 3500
+  },
+  {
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "category": "Young Adult",
+    "price": 3600
+  },
+  {
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "category": "Young Adult",
+    "price": 3400
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "category": "Young Adult",
+    "price": 3200
+  },
+  {
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "category": "Young Adult",
+    "price": 3100
+  },
+  {
+    "title": "Wonder",
+    "author": "R.J. Palacio",
+    "category": "Young Adult",
+    "price": 2900
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "category": "Young Adult",
+    "price": 2700
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "category": "Young Adult",
+    "price": 2600
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "category": "Young Adult",
+    "price": 3000
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Personal Growth",
+    "price": 5200
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "category": "Personal Growth",
+    "price": 4800
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "category": "Personal Growth",
+    "price": 3500
+  },
+  {
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "category": "Personal Growth",
+    "price": 3200
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "category": "Personal Growth",
+    "price": 4300
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Personal Growth",
+    "price": 4500
+  },
+  {
+    "title": "Mindset",
+    "author": "Carol S. Dweck",
+    "category": "Personal Growth",
+    "price": 4200
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "Personal Growth",
+    "price": 3900
+  },
+  {
+    "title": "Ikigai",
+    "author": "Héctor García & Francesc Miralles",
+    "category": "Personal Growth",
+    "price": 3000
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "category": "Personal Growth",
+    "price": 2900
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "price": 4900
+  },
+  {
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "price": 5100
+  },
+  {
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "price": 4800
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "price": 3900
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": "Science",
+    "price": 4500
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": "Science",
+    "price": 4300
+  },
+  {
+    "title": "The Body",
+    "author": "Bill Bryson",
+    "category": "Science",
+    "price": 4600
+  },
+  {
+    "title": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "category": "Science",
+    "price": 4700
+  },
+  {
+    "title": "The Gene",
+    "author": "Siddhartha Mukherjee",
+    "category": "Science",
+    "price": 5200
+  },
+  {
+    "title": "The Code Book",
+    "author": "Simon Singh",
+    "category": "Science",
+    "price": 4100
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Business",
+    "price": 4500
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "category": "Business",
+    "price": 3900
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "category": "Business",
+    "price": 4600
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "category": "Business",
+    "price": 3900
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "category": "Business",
+    "price": 3600
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "category": "Business",
+    "price": 3300
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "category": "Business",
+    "price": 5900
+  },
+  {
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "category": "Business",
+    "price": 4800
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "category": "Classics",
+    "price": 1900
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": "Classics",
+    "price": 2200
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "category": "Classics",
+    "price": 2600
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "category": "Classics",
+    "price": 2900
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "category": "Classics",
+    "price": 3000
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "category": "Classics",
+    "price": 2400
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "category": "Classics",
+    "price": 2200
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "Classics",
+    "price": 2500
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "category": "Classics",
+    "price": 2700
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "category": "Classics",
+    "price": 2600
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "price": 2900
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "category": "Young Adult",
+    "price": 2400
+  },
+  {
+    "title": "Waruni Sanhithaka Mala",
+    "author": "N.D. Wickramasinghe",
+    "category": "Sri Lankan Fiction",
+    "price": 10000,
+    "pages": 200,
+    "image": "assets/waruni-cover.jpg"
+  }
+]

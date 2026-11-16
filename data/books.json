@@ -1,0 +1,912 @@
+[
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 4200,
+    "id": "seed-1",
+    "image": "/assets/books/book-001.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 4800,
+    "id": "seed-2",
+    "image": "/assets/books/book-002.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 4600,
+    "id": "seed-3",
+    "image": "/assets/books/book-003.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 4900,
+    "id": "seed-4",
+    "image": "/assets/books/book-004.jpg",
+    "seed": true
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 3900,
+    "id": "seed-5",
+    "image": "/assets/books/book-005.jpg",
+    "seed": true
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 4100,
+    "id": "seed-6",
+    "image": "/assets/books/book-006.jpg",
+    "seed": true
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 4300,
+    "id": "seed-7",
+    "image": "/assets/books/book-007.jpg",
+    "seed": true
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 4700,
+    "id": "seed-8",
+    "image": "/assets/books/book-008.jpg",
+    "seed": true
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 5100,
+    "id": "seed-9",
+    "image": "/assets/books/book-009.jpg",
+    "seed": true
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 4800,
+    "id": "seed-10",
+    "image": "/assets/books/book-010.jpg",
+    "seed": true
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 5200,
+    "id": "seed-11",
+    "image": "/assets/books/book-011.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "category": "Fantasy",
+    "price": 3200,
+    "id": "seed-12",
+    "image": "/assets/books/book-012.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "category": "Fantasy",
+    "price": 3300,
+    "id": "seed-13",
+    "image": "/assets/books/book-013.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "category": "Fantasy",
+    "price": 5200,
+    "id": "seed-14",
+    "image": "/assets/books/book-014.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Wise Man's Fear",
+    "author": "Patrick Rothfuss",
+    "category": "Fantasy",
+    "price": 5600,
+    "id": "seed-15",
+    "image": "/assets/books/book-015.jpg",
+    "seed": true
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "category": "Fantasy",
+    "price": 5500,
+    "id": "seed-16",
+    "image": "/assets/books/book-016.jpg",
+    "seed": true
+  },
+  {
+    "title": "A Clash of Kings",
+    "author": "George R.R. Martin",
+    "category": "Fantasy",
+    "price": 5500,
+    "id": "seed-17",
+    "image": "/assets/books/book-017.jpg",
+    "seed": true
+  },
+  {
+    "title": "A Storm of Swords",
+    "author": "George R.R. Martin",
+    "category": "Fantasy",
+    "price": 5900,
+    "id": "seed-18",
+    "image": "/assets/books/book-018.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "price": 5800,
+    "id": "seed-19",
+    "image": "/assets/books/book-019.jpg",
+    "seed": true
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "price": 4900,
+    "id": "seed-20",
+    "image": "/assets/books/book-020.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "price": 2800,
+    "id": "seed-21",
+    "image": "/assets/books/book-021.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Fiction",
+    "price": 2200,
+    "id": "seed-22",
+    "image": "/assets/books/book-022.jpg",
+    "seed": true
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "price": 3100,
+    "id": "seed-23",
+    "image": "/assets/books/book-023.jpg",
+    "seed": true
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Classics",
+    "price": 2500,
+    "id": "seed-24",
+    "image": "/assets/books/book-024.jpg",
+    "seed": true
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "category": "Classics",
+    "price": 2900,
+    "id": "seed-25",
+    "image": "/assets/books/book-025.jpg",
+    "seed": true
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "category": "Classics",
+    "price": 2700,
+    "id": "seed-26",
+    "image": "/assets/books/book-026.jpg",
+    "seed": true
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "category": "Classics",
+    "price": 3000,
+    "id": "seed-27",
+    "image": "/assets/books/book-027.jpg",
+    "seed": true
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "category": "Classics",
+    "price": 2900,
+    "id": "seed-28",
+    "image": "/assets/books/book-028.jpg",
+    "seed": true
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "price": 2800,
+    "id": "seed-29",
+    "image": "/assets/books/book-029.jpg",
+    "seed": true
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "price": 2100,
+    "id": "seed-30",
+    "image": "/assets/books/book-030.jpg",
+    "seed": true
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "category": "Fiction",
+    "price": 3000,
+    "id": "seed-31",
+    "image": "/assets/books/book-031.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classics",
+    "price": 2600,
+    "id": "seed-32",
+    "image": "/assets/books/book-032.jpg",
+    "seed": true
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "category": "Classics",
+    "price": 3500,
+    "id": "seed-33",
+    "image": "/assets/books/book-033.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Fiction",
+    "price": 2900,
+    "id": "seed-34",
+    "image": "/assets/books/book-034.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "category": "Fiction",
+    "price": 3400,
+    "id": "seed-35",
+    "image": "/assets/books/book-035.jpg",
+    "seed": true
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "category": "Fiction",
+    "price": 3600,
+    "id": "seed-36",
+    "image": "/assets/books/book-036.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "category": "Fiction",
+    "price": 3700,
+    "id": "seed-37",
+    "image": "/assets/books/book-037.jpg",
+    "seed": true
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "category": "Fiction",
+    "price": 3300,
+    "id": "seed-38",
+    "image": "/assets/books/book-038.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "category": "Fiction",
+    "price": 3900,
+    "id": "seed-39",
+    "image": "/assets/books/book-039.jpg",
+    "seed": true
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "category": "Fiction",
+    "price": 3700,
+    "id": "seed-40",
+    "image": "/assets/books/book-040.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "category": "Mystery",
+    "price": 3900,
+    "id": "seed-41",
+    "image": "/assets/books/book-041.jpg",
+    "seed": true
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "price": 2800,
+    "id": "seed-42",
+    "image": "/assets/books/book-042.jpg",
+    "seed": true
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "price": 2900,
+    "id": "seed-43",
+    "image": "/assets/books/book-043.jpg",
+    "seed": true
+  },
+  {
+    "title": "The ABC Murders",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "price": 2800,
+    "id": "seed-44",
+    "image": "/assets/books/book-044.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "price": 2600,
+    "id": "seed-45",
+    "image": "/assets/books/book-045.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "category": "Mystery",
+    "price": 4100,
+    "id": "seed-46",
+    "image": "/assets/books/book-046.jpg",
+    "seed": true
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "category": "Mystery",
+    "price": 3800,
+    "id": "seed-47",
+    "image": "/assets/books/book-047.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "category": "Thriller",
+    "price": 3600,
+    "id": "seed-48",
+    "image": "/assets/books/book-048.jpg",
+    "seed": true
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "category": "Thriller",
+    "price": 3500,
+    "id": "seed-49",
+    "image": "/assets/books/book-049.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "category": "Thriller",
+    "price": 3500,
+    "id": "seed-50",
+    "image": "/assets/books/book-050.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "category": "Young Adult",
+    "price": 3400,
+    "id": "seed-51",
+    "image": "/assets/books/book-051.jpg",
+    "seed": true
+  },
+  {
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "category": "Young Adult",
+    "price": 3500,
+    "id": "seed-52",
+    "image": "/assets/books/book-052.jpg",
+    "seed": true
+  },
+  {
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "category": "Young Adult",
+    "price": 3600,
+    "id": "seed-53",
+    "image": "/assets/books/book-053.jpg",
+    "seed": true
+  },
+  {
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "category": "Young Adult",
+    "price": 3400,
+    "id": "seed-54",
+    "image": "/assets/books/book-054.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "category": "Young Adult",
+    "price": 3200,
+    "id": "seed-55",
+    "image": "/assets/books/book-055.jpg",
+    "seed": true
+  },
+  {
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "category": "Young Adult",
+    "price": 3100,
+    "id": "seed-56",
+    "image": "/assets/books/book-056.jpg",
+    "seed": true
+  },
+  {
+    "title": "Wonder",
+    "author": "R.J. Palacio",
+    "category": "Young Adult",
+    "price": 2900,
+    "id": "seed-57",
+    "image": "/assets/books/book-057.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "category": "Young Adult",
+    "price": 2700,
+    "id": "seed-58",
+    "image": "/assets/books/book-058.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "category": "Young Adult",
+    "price": 2600,
+    "id": "seed-59",
+    "image": "/assets/books/book-059.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "category": "Young Adult",
+    "price": 3000,
+    "id": "seed-60",
+    "image": "/assets/books/book-060.jpg",
+    "seed": true
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Personal Growth",
+    "price": 5200,
+    "id": "seed-61",
+    "image": "/assets/books/book-061.jpg",
+    "seed": true
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "category": "Personal Growth",
+    "price": 4800,
+    "id": "seed-62",
+    "image": "/assets/books/book-062.jpg",
+    "seed": true
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "category": "Personal Growth",
+    "price": 3500,
+    "id": "seed-63",
+    "image": "/assets/books/book-063.jpg",
+    "seed": true
+  },
+  {
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "category": "Personal Growth",
+    "price": 3200,
+    "id": "seed-64",
+    "image": "/assets/books/book-064.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "category": "Personal Growth",
+    "price": 4300,
+    "id": "seed-65",
+    "image": "/assets/books/book-065.jpg",
+    "seed": true
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Personal Growth",
+    "price": 4500,
+    "id": "seed-66",
+    "image": "/assets/books/book-066.jpg",
+    "seed": true
+  },
+  {
+    "title": "Mindset",
+    "author": "Carol S. Dweck",
+    "category": "Personal Growth",
+    "price": 4200,
+    "id": "seed-67",
+    "image": "/assets/books/book-067.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "Personal Growth",
+    "price": 3900,
+    "id": "seed-68",
+    "image": "/assets/books/book-068.jpg",
+    "seed": true
+  },
+  {
+    "title": "Ikigai",
+    "author": "Héctor García & Francesc Miralles",
+    "category": "Personal Growth",
+    "price": 3000,
+    "id": "seed-69",
+    "image": "/assets/books/book-069.jpg",
+    "seed": true
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "category": "Personal Growth",
+    "price": 2900,
+    "id": "seed-70",
+    "image": "/assets/books/book-070.jpg",
+    "seed": true
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "price": 4900,
+    "id": "seed-71",
+    "image": "/assets/books/book-071.jpg",
+    "seed": true
+  },
+  {
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "price": 5100,
+    "id": "seed-72",
+    "image": "/assets/books/book-072.jpg",
+    "seed": true
+  },
+  {
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "price": 4800,
+    "id": "seed-73",
+    "image": "/assets/books/book-073.jpg",
+    "seed": true
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "price": 3900,
+    "id": "seed-74",
+    "image": "/assets/books/book-074.jpg",
+    "seed": true
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": "Science",
+    "price": 4500,
+    "id": "seed-75",
+    "image": "/assets/books/book-075.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": "Science",
+    "price": 4300,
+    "id": "seed-76",
+    "image": "/assets/books/book-076.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Body",
+    "author": "Bill Bryson",
+    "category": "Science",
+    "price": 4600,
+    "id": "seed-77",
+    "image": "/assets/books/book-077.jpg",
+    "seed": true
+  },
+  {
+    "title": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "category": "Science",
+    "price": 4700,
+    "id": "seed-78",
+    "image": "/assets/books/book-078.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Gene",
+    "author": "Siddhartha Mukherjee",
+    "category": "Science",
+    "price": 5200,
+    "id": "seed-79",
+    "image": "/assets/books/book-079.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Code Book",
+    "author": "Simon Singh",
+    "category": "Science",
+    "price": 4100,
+    "id": "seed-80",
+    "image": "/assets/books/book-080.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Business",
+    "price": 4500,
+    "id": "seed-81",
+    "image": "/assets/books/book-081.jpg",
+    "seed": true
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "category": "Business",
+    "price": 3900,
+    "id": "seed-82",
+    "image": "/assets/books/book-082.jpg",
+    "seed": true
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "category": "Business",
+    "price": 4600,
+    "id": "seed-83",
+    "image": "/assets/books/book-083.jpg",
+    "seed": true
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "category": "Business",
+    "price": 3900,
+    "id": "seed-84",
+    "image": "/assets/books/book-084.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "category": "Business",
+    "price": 3600,
+    "id": "seed-85",
+    "image": "/assets/books/book-085.jpg",
+    "seed": true
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "category": "Business",
+    "price": 3300,
+    "id": "seed-86",
+    "image": "/assets/books/book-086.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "category": "Business",
+    "price": 5900,
+    "id": "seed-87",
+    "image": "/assets/books/book-087.jpg",
+    "seed": true
+  },
+  {
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "category": "Business",
+    "price": 4800,
+    "id": "seed-88",
+    "image": "/assets/books/book-088.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "category": "Classics",
+    "price": 1900,
+    "id": "seed-89",
+    "image": "/assets/books/book-089.jpg",
+    "seed": true
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": "Classics",
+    "price": 2200,
+    "id": "seed-90",
+    "image": "/assets/books/book-090.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "category": "Classics",
+    "price": 2600,
+    "id": "seed-91",
+    "image": "/assets/books/book-091.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "category": "Classics",
+    "price": 2900,
+    "id": "seed-92",
+    "image": "/assets/books/book-092.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "category": "Classics",
+    "price": 3000,
+    "id": "seed-93",
+    "image": "/assets/books/book-093.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "category": "Classics",
+    "price": 2400,
+    "id": "seed-94",
+    "image": "/assets/books/book-094.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "category": "Classics",
+    "price": 2200,
+    "id": "seed-95",
+    "image": "/assets/books/book-095.jpg",
+    "seed": true
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "Classics",
+    "price": 2500,
+    "id": "seed-96",
+    "image": "/assets/books/book-096.jpg",
+    "seed": true
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "category": "Classics",
+    "price": 2700,
+    "id": "seed-97",
+    "image": "/assets/books/book-097.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "category": "Classics",
+    "price": 2600,
+    "id": "seed-98",
+    "image": "/assets/books/book-098.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "price": 2900,
+    "id": "seed-99",
+    "image": "/assets/books/book-099.jpg",
+    "seed": true
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "category": "Young Adult",
+    "price": 2400,
+    "id": "seed-100",
+    "image": "/assets/books/book-100.jpg",
+    "seed": true
+  },
+  {
+    "title": "Waruni Sanhithaka Mala",
+    "author": "N.D. Wickramasinghe",
+    "category": "Sri Lankan Fiction",
+    "price": 10000,
+    "pages": 200,
+    "image": "/assets/waruni-cover.jpg",
+    "id": "seed-101",
+    "seed": true
+  }
+]
